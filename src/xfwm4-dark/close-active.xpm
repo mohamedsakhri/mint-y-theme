@@ -35,7 +35,7 @@ static char *close_active[] = {
 "w c #95B178",
 "e c #99B77B",
 "r c #99B67D",
-"t c #9AB87C",
+"t c #b3b3b3",
 "y c #818280",
 "u c #838680",
 /* pixels */
